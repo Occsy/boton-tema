@@ -15,5 +15,5 @@ circle.addEventListener("click", ()=>{
     night.setAttribute("style","transition: opacity 0.5s ease");
 
 
-});
+},{once:true});
 
